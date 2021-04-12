@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://iamanh1990:zinger90@cluster0.agab4.mongodb.net/developer_social_app",
+  "jwtSecret": "Mysecrettoken"
+}
